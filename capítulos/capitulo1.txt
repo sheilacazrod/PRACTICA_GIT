@@ -1,1 +1,1 @@
-"Git es un sistema de control de versiones ideado por Linus Torvalds." 
+"En este cap¡tulo veremos c¢mo usar GitHub para alojar repositorios en remoto." 
